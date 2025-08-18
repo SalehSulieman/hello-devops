@@ -1,4 +1,3 @@
-return "Hello from DevOps v2 ✨"
 from flask import Flask
 app = Flask(__name__)
 
